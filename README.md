@@ -1,2 +1,2 @@
 # .github
-The Discription of WeeCine.
+这是 WeeCine 团队的简介。
